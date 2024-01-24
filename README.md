@@ -1,2 +1,2 @@
 # New-
-project ideas
+Bus Reservation System - Built using Java and SQL project ideas
